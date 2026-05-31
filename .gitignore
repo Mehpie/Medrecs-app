@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/input/*
+!data/input/.gitkeep
+!data/input/pages.example.json
+data/outputs/*
+!data/outputs/.gitkeep
+!data/outputs/visualizations/.gitkeep
+
+patentreviewstreamlit/
