@@ -1,0 +1,16 @@
+{
+  "case_id": "sample-10p",
+  "date_of_loss": "2023-04-13",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Replace with your extracted page 1 text.",
+      "document_type": "Office Visit",
+      "date_of_service": "2023-07-14"
+    },
+    {
+      "page_number": 2,
+      "text": "Replace with your extracted page 2 text."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+[
+  {
+    "page": 1,
+    "elements": 7,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 2,
+    "elements": 15,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 3,
+    "elements": 18,
+    "model": "gemini-3.1-pro-preview",
+    "attempt": 2,
+    "attempts_total": 3,
+    "retry_attempt": 2
+  },
+  {
+    "page": 4,
+    "elements": 8,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 5,
+    "elements": 17,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 6,
+    "elements": 23,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 7,
+    "elements": 21,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 8,
+    "elements": 27,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 9,
+    "elements": 4,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 10,
+    "elements": 15,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 11,
+    "elements": 19,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 12,
+    "elements": 15,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 13,
+    "elements": 13,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 14,
+    "elements": 27,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 15,
+    "elements": 13,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 16,
+    "elements": 11,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 17,
+    "elements": 4,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 18,
+    "elements": 14,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 19,
+    "elements": 14,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 20,
+    "elements": 9,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 21,
+    "elements": 19,
+    "model": "gemini-3.1-pro-preview",
+    "attempt": 2,
+    "attempts_total": 3,
+    "retry_attempt": 2
+  },
+  {
+    "page": 22,
+    "elements": 8,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 23,
+    "elements": 16,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 24,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 25,
+    "elements": 37,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 26,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 27,
+    "elements": 5,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 28,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 29,
+    "elements": 14,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 30,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 31,
+    "elements": 8,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 32,
+    "elements": 4,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 33,
+    "elements": 12,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 34,
+    "elements": 15,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 35,
+    "elements": 28,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 36,
+    "elements": 24,
+    "model": "gemini-3.1-pro-preview",
+    "attempt": 2,
+    "attempts_total": 3,
+    "retry_attempt": 2
+  },
+  {
+    "page": 37,
+    "elements": 18,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 38,
+    "elements": 17,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 39,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  },
+  {
+    "page": 40,
+    "elements": 3,
+    "model": "gemini-3-flash-preview",
+    "attempt": 1,
+    "attempts_total": 3
+  }
+]
