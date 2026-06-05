@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-background: 240 239 234;
+    --color-surface: 232 231 226;
+    --color-header: 228 227 222; /* Slightly darker than surface */
+    --color-content: 22 24 26;
+    --color-success: 39 103 73;
+    --color-pending: 116 66 16;
+  }
+  html.dark {
+    --color-background: 22 24 26;
+    --color-surface: 31 33 36;
+    --color-header: 12 14 16; /* Darker than background */
+    --color-content: 240 239 234;
+    --color-success: 74 136 100;
+    --color-pending: 162 106 37;
+  }
+
+  body {
+    background-color: rgb(var(--color-background));
+    color: rgb(var(--color-content));
+  }
+}
+
+/* Hidden Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.custom-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
