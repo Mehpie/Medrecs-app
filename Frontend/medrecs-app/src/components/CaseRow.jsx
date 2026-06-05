@@ -10,7 +10,7 @@ const CaseRow = React.memo(function CaseRow({ data }) {
   };
 
   return (
-    <div className="grid grid-cols-12 gap-4 px-6 py-5 bg-white/20 dark:bg-surface/30 backdrop-blur-sm border-b border-content/10 border-t-0 border-r-0 border-l-4 border-l-transparent hover:border-l-content hover:bg-white/40 dark:hover:bg-surface/50 transition-all duration-150 group items-center relative overflow-hidden transform-gpu will-change-transform will-change-[backdrop-filter]">
+    <div className="grid grid-cols-12 gap-4 px-6 py-5 bg-white/20 dark:bg-surface/30 border-b border-content/10 border-t-0 border-r-0 border-l-4 border-l-transparent hover:border-l-content hover:bg-white/40 dark:hover:bg-surface/50 transition-all duration-150 group items-center relative overflow-hidden">
       
       {/* Unread Badge */}
       {data.unread && (
